@@ -1,0 +1,13 @@
+
+Tips about the Exam:
+https://servian.dev/tensorflow-developer-certification-for-those-familiar-with-tensorflow-9f96a084b299
+
+Tensorflow Specialisation Labs:
+https://github.com/https-deeplearning-ai/tensorflow-1-public
+
+Oreilly Book:
+https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ch14.html#idm45022137801736
+
+
+Timeseries Forecasting Notebook:
+https://www.kaggle.com/nicholasjhana/multi-variate-time-series-forecasting-tensorflow
